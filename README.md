@@ -1,1 +1,1 @@
-# Deep-Learning-School-Autumn-2022
+# Deep Learning School Autumn 2022
